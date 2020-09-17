@@ -58,4 +58,22 @@ requirements for this software and my solution with this Java app.
    3.-Controller: This one is working between model and view, managing all the information and transformations to adapt data for each one.
                   In this part, the code that i'm using are built by methods assigned to buttons for insert, modify or delete in the entire
                   application, all this code was used in communication with the model and view.
+                  
+                  
+   The Application Starts in this way:
+![image](https://user-images.githubusercontent.com/61565954/93434497-dcff0880-f88d-11ea-973d-2dba059d0f56.png)
+
+  We can select any option in the Menu, but it is necessary register Category and Product so we can do the Sale...
+
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
    
