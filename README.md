@@ -94,8 +94,12 @@ In this image i am showing the "Buscar" Menu, so in the same way i can take a lo
 ![image](https://user-images.githubusercontent.com/61565954/93501868-9cc67700-f8db-11ea-9cab-c341414a1afd.png)
 
 
-Inside this last option i can find the breakfast or maybe not depeding the register that i'm using it here, in this case i found the correct breakfast.
+Inside this last option i can find the breakfast or maybe not depending the register that i'm using it here, in this case i found the correct breakfast.
 ![image](https://user-images.githubusercontent.com/61565954/93502826-e1064700-f8dc-11ea-8470-5a2579b11e00.png)
+
+
+Once i get the right register i am able to modify this same register or maybe just see all the attributes belonging on this plate
+
                   
                   
                   
