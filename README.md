@@ -66,8 +66,9 @@ requirements for this software and my solution with this Java app.
   We can select any option in the Menu, but it is necessary register Category and Product so we can do the Sale...
 
                
-                  
-                  
+ Now I'm inside the Menu "Registro"              
+ ![image](https://user-images.githubusercontent.com/61565954/93435588-43d0f180-f88f-11ea-885a-d371938318bd.png)
+ We can select Categoria or Desayuno and do the registry for each one of this.                 
                   
                   
                   
