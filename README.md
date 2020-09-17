@@ -76,6 +76,10 @@ requirements for this software and my solution with this Java app.
 I'm done with the first Category in this moment
 ![image](https://user-images.githubusercontent.com/61565954/93436585-9d85eb80-f890-11ea-95aa-8e7e8efd6078.png)
 So the app shows me the new profile created and it's ready to save another Category in the Database
+
+Here we are able to see the insertion for this new Category in MySQL WorkBench, so this first option is working perfectly
+![image](https://user-images.githubusercontent.com/61565954/93437291-6e23ae80-f891-11ea-9510-8356063b154d.png)
+
                   
                   
                   
