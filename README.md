@@ -104,6 +104,12 @@ Once i get the right register i am able to modify this same register or maybe ju
 
 In this only case i just changed the quantity for this product, imaging i did more of this in the business
 ![image](https://user-images.githubusercontent.com/61565954/93504218-cf25a380-f8de-11ea-975c-3ae41e3b99c0.png)
+
+
+Here we are in the sales option, it is really simple and easy use this module...
+I starting lookgin for the breakfast availability, if i am able to sale at least one of this the program asks me for the payment and it has to be 
+the rigth payment o more than expected but never less, if the payment its more the programm tell me how much money i have to return to this client
+![image](https://user-images.githubusercontent.com/61565954/93505351-5c1d2c80-f8e0-11ea-9fc0-f7bf0eadbb24.png)
                   
                   
                   
