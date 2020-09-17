@@ -118,6 +118,10 @@ Program asking for quantity
 
 Wrong payment, program does not execute the sale
 ![image](https://user-images.githubusercontent.com/61565954/93509754-cd131300-f8e5-11ea-83df-fa6b34811cc2.png)
+
+
+Correct payment, program tell user how much money needs to return to client
+![image](https://user-images.githubusercontent.com/61565954/93510087-4d397880-f8e6-11ea-8906-2051d7f78049.png)
                   
                   
                   
