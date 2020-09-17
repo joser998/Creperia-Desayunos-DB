@@ -71,7 +71,11 @@ requirements for this software and my solution with this Java app.
  We can select Categoria or Desayuno and do the registry for each one of this.                 
                   
  I'm inside "Categoria" in this moment so i am doing the registry for a new kind of breakfast                 
-![image](https://user-images.githubusercontent.com/61565954/93436175-0caf1000-f890-11ea-8f95-8f3d16de5465.png)                  
+![image](https://user-images.githubusercontent.com/61565954/93436175-0caf1000-f890-11ea-8f95-8f3d16de5465.png)  
+
+I'm done with the first Category in this moment
+![image](https://user-images.githubusercontent.com/61565954/93436585-9d85eb80-f890-11ea-95aa-8e7e8efd6078.png)
+So the app shows me the new profile created and it's ready to save another Category in the Database
                   
                   
                   
