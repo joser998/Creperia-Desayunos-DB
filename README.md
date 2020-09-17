@@ -89,9 +89,13 @@ to let know about this last action.
 ![image](https://user-images.githubusercontent.com/61565954/93438298-b8f1f600-f892-11ea-9909-b6f0b32c693e.png)
 Breakfast saved on Database
 
+
 In this image i am showing the "Buscar" Menu, so in the same way i can take a look for a register in Category or a Breakfast.
 ![image](https://user-images.githubusercontent.com/61565954/93501868-9cc67700-f8db-11ea-9cab-c341414a1afd.png)
 
+
+Inside this last option i can find the breakfast or maybe not depeding the register that i'm using it here, in this case i found the correct breakfast.
+![image](https://user-images.githubusercontent.com/61565954/93502826-e1064700-f8dc-11ea-8470-5a2579b11e00.png)
                   
                   
                   
