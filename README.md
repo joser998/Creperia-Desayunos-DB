@@ -100,6 +100,10 @@ Inside this last option i can find the breakfast or maybe not depending the regi
 
 Once i get the right register i am able to modify this same register or maybe just see all the attributes belonging on this plate
 ![image](https://user-images.githubusercontent.com/61565954/93503860-4870c680-f8de-11ea-864b-a466913d61d9.png)
+
+
+In this only case i just changed the quantity for this product, imaging i did more of this in the business
+![image](https://user-images.githubusercontent.com/61565954/93504218-cf25a380-f8de-11ea-975c-3ae41e3b99c0.png)
                   
                   
                   
