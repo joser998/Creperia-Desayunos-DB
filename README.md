@@ -110,6 +110,10 @@ Here we are in the sales option, it is really simple and easy use this module...
 I starting lookgin for the breakfast availability, if i am able to sale at least one of this the program asks me for the payment and it has to be 
 the rigth payment o more than expected but never less, if the payment its more the programm tell me how much money i have to return to this client
 ![image](https://user-images.githubusercontent.com/61565954/93505351-5c1d2c80-f8e0-11ea-9fc0-f7bf0eadbb24.png)
+
+
+Program asking for quantity
+![image](https://user-images.githubusercontent.com/61565954/93509524-79a0c500-f8e5-11ea-991e-2258d087a8ab.png)
                   
                   
                   
