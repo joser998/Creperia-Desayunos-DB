@@ -144,7 +144,15 @@ Profile for this product deleted in Database too
 ![image](https://user-images.githubusercontent.com/61565954/93511532-97bbf480-f8e8-11ea-9c72-d597006b877e.png)
 
 Also i would like to add, if we delete some category, we are deleting at same time all the products matched with this category 
-                  
+
+Finally we have the option to close our app with this button "Exit" in this way
+![image](https://user-images.githubusercontent.com/61565954/93512189-90e1b180-f8e9-11ea-82b8-ae5f96ceb0e7.png)
+
+I invite you to check and test this application and do your own annotations and if you wanted collaborate and expand this Software
+
+Regards...
+               
+               
                   
                   
                   
