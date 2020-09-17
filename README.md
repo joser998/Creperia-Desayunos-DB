@@ -114,6 +114,10 @@ the rigth payment o more than expected but never less, if the payment its more t
 
 Program asking for quantity
 ![image](https://user-images.githubusercontent.com/61565954/93509524-79a0c500-f8e5-11ea-991e-2258d087a8ab.png)
+
+
+Wrong payment, program does not execute the sale
+![image](https://user-images.githubusercontent.com/61565954/93509754-cd131300-f8e5-11ea-83df-fa6b34811cc2.png)
                   
                   
                   
