@@ -126,6 +126,10 @@ Correct payment, program tell user how much money needs to return to client
 
 Database in MySQL Workbench, we can see the table Ventas and we have registered this last sale we did
 ![image](https://user-images.githubusercontent.com/61565954/93510508-e8325280-f8e6-11ea-8ed4-e9385d03ac9f.png)
+
+
+In the same Menu we are able to delete the sale, here i'm trying to delete the last sale we did
+![image](https://user-images.githubusercontent.com/61565954/93510821-71498980-f8e7-11ea-8380-477a450d26c1.png)
                   
                   
                   
