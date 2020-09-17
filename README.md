@@ -80,6 +80,11 @@ So the app shows me the new profile created and it's ready to save another Categ
 Here we are able to see the insertion for this new Category in MySQL WorkBench, so this first option is working perfectly
 ![image](https://user-images.githubusercontent.com/61565954/93437291-6e23ae80-f891-11ea-9510-8356063b154d.png)
 
+
+![image](https://user-images.githubusercontent.com/61565954/93437895-25202a00-f892-11ea-8533-c9322209e68f.png)
+In this moment i did a registry for breakfast and this is working good, i received a message telling me "Registro Insertado Correctamente"
+to let know about this last action.
+
                   
                   
                   
