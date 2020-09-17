@@ -130,6 +130,9 @@ Database in MySQL Workbench, we can see the table Ventas and we have registered 
 
 In the same Menu we are able to delete the sale, here i'm trying to delete the last sale we did
 ![image](https://user-images.githubusercontent.com/61565954/93510821-71498980-f8e7-11ea-8380-477a450d26c1.png)
+
+Sale deleted
+![image](https://user-images.githubusercontent.com/61565954/93511097-dc935b80-f8e7-11ea-922d-c65b9b5ae9f5.png)
                   
                   
                   
