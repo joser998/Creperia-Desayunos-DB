@@ -138,6 +138,10 @@ Sale deleted
 
 Also we are able to delete the register for the product (breakfast) or the Category if we need it, this is directly for inventory
 ![image](https://user-images.githubusercontent.com/61565954/93511261-2419e780-f8e8-11ea-8df9-03a038051f51.png)
+
+
+Profile for this product deleted in Database too
+![image](https://user-images.githubusercontent.com/61565954/93511532-97bbf480-f8e8-11ea-9c72-d597006b877e.png)
                   
                   
                   
