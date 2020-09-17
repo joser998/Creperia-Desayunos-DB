@@ -70,7 +70,8 @@ requirements for this software and my solution with this Java app.
  ![image](https://user-images.githubusercontent.com/61565954/93435588-43d0f180-f88f-11ea-885a-d371938318bd.png)
  We can select Categoria or Desayuno and do the registry for each one of this.                 
                   
-                  
+ I'm inside "Categoria" in this moment so i am doing the registry for a new kind of breakfast                 
+![image](https://user-images.githubusercontent.com/61565954/93436175-0caf1000-f890-11ea-8f95-8f3d16de5465.png)                  
                   
                   
                   
