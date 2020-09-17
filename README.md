@@ -122,6 +122,10 @@ Wrong payment, program does not execute the sale
 
 Correct payment, program tell user how much money needs to return to client
 ![image](https://user-images.githubusercontent.com/61565954/93510087-4d397880-f8e6-11ea-8906-2051d7f78049.png)
+
+
+Database in MySQL Workbench, we can see the table Ventas and we have registered this last sale we did
+![image](https://user-images.githubusercontent.com/61565954/93510508-e8325280-f8e6-11ea-8ed4-e9385d03ac9f.png)
                   
                   
                   
