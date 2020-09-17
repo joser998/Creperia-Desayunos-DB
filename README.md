@@ -142,6 +142,8 @@ Also we are able to delete the register for the product (breakfast) or the Categ
 
 Profile for this product deleted in Database too
 ![image](https://user-images.githubusercontent.com/61565954/93511532-97bbf480-f8e8-11ea-9c72-d597006b877e.png)
+
+Also i would like to add, if we delete some category, we are deleting at same time all the products matched with this category 
                   
                   
                   
